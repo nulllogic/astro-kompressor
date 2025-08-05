@@ -1,0 +1,37 @@
+{
+	"name": "@nulllogic/astro-kompressor",
+	"version": "0.0.1",
+	"description": "Astro optimization & compressing plugin",
+	"type": "module",
+	"main": "./dist/index.js",
+	"types": "./dist/index.d.ts",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:nulllogic/astro-kompressor.git"
+	},
+	"author": "NullLogic",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/nulllogic/astro-kompressor"
+	},
+	"homepage": "https://github.com/nulllogic/astro-kompressor",
+	"keywords": [
+		"astro",
+		"astro-integration",
+		"astro-component",
+    "astro-optimization",
+		"performance"
+	],
+	"files": [
+		"dist/**",
+		"CHANGELOG.md",
+		"README.md"
+	],
+	"scripts": {
+	},
+	"devDependencies": {
+		"astro": "^5.12.8",
+		"typescript": "5.8.3",
+		"vitest": "3.2.4"
+	}
+}
