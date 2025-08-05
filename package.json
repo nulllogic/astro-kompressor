@@ -28,6 +28,8 @@
 		"README.md"
 	],
 	"scripts": {
+    "dev" : "tsc",
+    "build" : "tsc"
 	},
 	"devDependencies": {
 		"astro": "^5.12.8",
