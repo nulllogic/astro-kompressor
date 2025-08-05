@@ -1,0 +1,15 @@
+*.log
+.github/
+.imgs/
+.idea/
+assets/
+node_modules/
+.dockerignore
+.eslintignore
+.prettierignore
+CHANGELOG.md
+CONTRIBUTING.md
+Dockerfile
+Makefile
+README.md
+.gitignore
